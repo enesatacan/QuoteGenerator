@@ -52,3 +52,6 @@ To run the project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/enesatacan/QuoteGenerator
+
+
+![image](https://github.com/user-attachments/assets/1bc7b998-9253-4c19-b74c-c1c5d23b917e)
